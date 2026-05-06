@@ -1,1 +1,1 @@
-# Area-Of-Triangle-By-Math-Functions
+Area Of Triangle By Math Functions
